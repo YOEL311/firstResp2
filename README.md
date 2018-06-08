@@ -1,7 +1,7 @@
-ל# firstResp2
+# firstResp2
 WWWW
 kjkjkjl;
-lklklklkl
+<<<<<<< HEAD
 
 לחלךחך
 מלחיחלךחלמלךח
