@@ -1,8 +1,6 @@
 # firstResp2
-tttttttttttttttttttttttttttttttttttttttttttttttttt
 WWWW
 kjkjkjl;
-<<<<<<< HEAD
 
 לחלךחך
 מלחיחלךחלמלךח
