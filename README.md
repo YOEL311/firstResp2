@@ -2,7 +2,7 @@
 tttttttttttttttttttttttttttttttttttttttttttttttttt
 WWWW
 kjkjkjl;
-<<<<<<< HEAD
+
 
 לחלךחך
 מלחיחלךחלמלךח
